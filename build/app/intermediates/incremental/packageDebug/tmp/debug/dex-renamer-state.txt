@@ -1,0 +1,4 @@
+#Wed Feb 08 17:44:15 ICT 2023
+base.0=/Users/baopg/Documents/dex_flutter/GitHub/game-center/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
