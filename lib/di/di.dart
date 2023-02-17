@@ -7,7 +7,7 @@ import 'di.config.dart';
 final getIt = GetIt.instance;
 
 @injectableInit
-Future<void> configureDependencies() async {
-  $initGetIt(getIt);
+Future<void> configureDependencies(String env) async {
+  $initGetIt(getIt,environment: env);
   await LocalDB.initLocalDB();
 }

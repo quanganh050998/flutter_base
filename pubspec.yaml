@@ -94,16 +94,34 @@ flutter_intl:
 flavorizr:
   app:
     android:
-      flavorDimensions: "flavor-type"
+      flavorDimensions: "app"
     ios:
 
   flavors:
-    apple:
+    prod:
       app:
-        name: "Game Center App"
+        name: "Game Center App Prod"
 
       android:
-        applicationId: "game.center"
+        applicationId: "game.center.prod"
+        firebase:
+          config: ".config/firebase/prod/google-services.json"
 
       ios:
-        bundleId: "game.center"
+        bundleId: "game.center.prod"
+        firebase:
+          config: ".config/firebase/prod/GoogleService-Info.plist"
+
+    qc:
+      app:
+        name: "Game Center App qc"
+
+      android:
+        applicationId: "game.center.qc"
+        firebase:
+          config: ".config/firebase/qc/google-services.json"
+
+      ios:
+        bundleId: "game.center.qc"
+        firebase:
+          config: ".config/firebase/qc/GoogleService-Info.plist"

@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CiTAwdQwS2Lm/W4w6pb4iggqXHI=
+		La+Wy78Ks0npcYFlG0gDlhMXoBs=
 		</data>
 		<key>Modules/flutter_localization.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ErWfhuLQ8Z37kx1mnErnYJIpp7c=
+		x6P+k7XcQMLkaWX4vhvyT6yUVaA=
 		</data>
 		<key>Modules/flutter_localization.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		VJOmxzbQyj84sBhryjZ39hqocOs=
+		DvTpHyA1S4QiRw8LJJDUFjCHlvw=
 		</data>
 		<key>Modules/flutter_localization.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/flutter_localization.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2mWYvvBnkQNLAWMhAXEgStqxrAE=
+		o+yFQ9NLJGOtTLNIJtbn+JlSDSM=
 		</data>
 		<key>Modules/flutter_localization.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/flutter_localization.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MGJLcxVCS4tGgoWA3H8CuuTs3LY=
+		Wgw/90F0zV2Q9ObucBwaS3Gld5U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,14 +84,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1h93aLRmJR+U/jY3dGEFCd1I6hIu2J55aG38VaiYH1I=
+			90HbOaIoKLMVXHWpoJJ7swjp0fsGlszD6FM84LwWpdM=
 			</data>
 		</dict>
 		<key>Modules/flutter_localization.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0AlxSfPdU90ccqoj0ktFEjpNsReTCTc6Kg0ZVT+9mVw=
+			+42B3wcKQ7yz3UqX1KyCTlFAnXMxaL8V76oKhrs2a+U=
 			</data>
 		</dict>
 		<key>Modules/flutter_localization.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AheCxIq5r7HuwYn3myc1npKXP+DU9J6mnLUWk10knE8=
+			M64mgq+UwsY7hwtuiFCJBtAQYL4ecgrSzl3zFqRhUCM=
 			</data>
 		</dict>
 		<key>Modules/flutter_localization.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			obqry+E4MhdgOqZcQ1Q6nCh4BGroFvFNCHrQDMEAAcI=
+			LYtk3tmj9+j17JMH9+o5Gtaw/soaeUAjlxSQGgvFZLs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

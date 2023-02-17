@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_qc.dart
+ASSET_PREFIX=qc
+BUNDLE_NAME=Game Center App qc
+BUNDLE_DISPLAY_NAME=Game Center App qc

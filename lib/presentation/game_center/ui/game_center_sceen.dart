@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:game_center/component/load_image.dart';
+import 'package:game_center/di/di.dart';
+import 'package:game_center/env_config.dart';
 import 'package:game_center/generated/assets.dart';
 import 'package:game_center/presentation/game_center/cubit/game_center_cubit.dart';
 import 'package:game_center/presentation/game_center/ui/widget/all_games/all_games.dart';
@@ -29,6 +31,8 @@ class _GameCenterScreenState extends State<GameCenterScreen> {
   Widget build(BuildContext context) {
     final width = MediaQuery.of(context).size.width;
     final height = MediaQuery.of(context).size.height;
+
+    print('++++++++++++show url api ${getIt<BuildConfig>().urlAPI}');
 
     return SafeAreaCustom(
       background: LoadImage(

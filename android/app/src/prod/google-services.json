@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "922479036460",
+    "project_id": "gamecenter-b2951",
+    "storage_bucket": "gamecenter-b2951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922479036460:android:3eff4ccdd88e0ea6bbe989",
+        "android_client_info": {
+          "package_name": "com.game.center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922479036460-ih2aq9h2hjdfn56ip9hi90vjmg31jji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodYWk-9CNynQ9L7XgdFtN_gKwP1njD1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922479036460-ih2aq9h2hjdfn56ip9hi90vjmg31jji8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922479036460-0ikc1hdegl1bkhssu0ut9allmulv83mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "game.center"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922479036460:android:6b4c2214e5112f62bbe989",
+        "android_client_info": {
+          "package_name": "game.center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922479036460-6l9kmasjdfbh46ockp4j1003ie330nck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "game.center",
+            "certificate_hash": "4953bd863b76744aa71ea37d18dd680ab6c0e334"
+          }
+        },
+        {
+          "client_id": "922479036460-ih2aq9h2hjdfn56ip9hi90vjmg31jji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodYWk-9CNynQ9L7XgdFtN_gKwP1njD1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922479036460-ih2aq9h2hjdfn56ip9hi90vjmg31jji8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922479036460-0ikc1hdegl1bkhssu0ut9allmulv83mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "game.center"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922479036460:android:59dc01f8bee210d1bbe989",
+        "android_client_info": {
+          "package_name": "game.center.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922479036460-ih2aq9h2hjdfn56ip9hi90vjmg31jji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodYWk-9CNynQ9L7XgdFtN_gKwP1njD1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922479036460-ih2aq9h2hjdfn56ip9hi90vjmg31jji8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922479036460-0ikc1hdegl1bkhssu0ut9allmulv83mk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "game.center"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

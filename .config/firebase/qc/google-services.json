@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "616228424984",
+    "project_id": "gamecenterqc-f1a41",
+    "storage_bucket": "gamecenterqc-f1a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616228424984:android:14f9e4c55f12fa175de26d",
+        "android_client_info": {
+          "package_name": "game.center.qc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616228424984-ncahp17a39upg3u5mgrbbaqdqdt6vvbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUoTrfIE7XNd8p8dgxhi3nIZvBSOO4uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616228424984-ncahp17a39upg3u5mgrbbaqdqdt6vvbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616228424984-905l2qaiu3gvaeptop871270i8habo1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "game.center.qc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
